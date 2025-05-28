@@ -2,3 +2,8 @@ reminder_system/
 ├── reminder_system.py
 ├── reminders.json         ← Will be created automatically
 └── alarm.mp3              ← Add any alert sound here
+playground 
+time 
+threads
+notification
+date and time
