@@ -1,0 +1,7 @@
+[project]
+name = "reminder-system"
+version = "0.1.0"
+description = "It wiil remind you your task. Basically it is a reminder system in python"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [player, playground]
